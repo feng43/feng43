@@ -31,7 +31,7 @@ feng!⚡⚡⚡
 <tr>
 <td valign="top" width="50%">
 
-![image](https://www.codewars.com/users/feng43/badges/large)
+![image](https://www.codewars.com/users/feng43/badges/micro)
 
 <!--
 **feng43/feng43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
